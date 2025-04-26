@@ -27,6 +27,6 @@ Run the tool:
 
 This tool is for educational use only. Do not use it on any system without explicit permission.
 
-#Author
+##Author
 
 Coded with pain and caffeine by @4pav
